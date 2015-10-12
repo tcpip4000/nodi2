@@ -1,0 +1,17 @@
+{
+  "name": "nodi2",
+  "version": "0.0.0",
+  "description": "Streams tutorial",
+  "main": "program.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tutoria"
+  ],
+  "author": "Juan P Daza P",
+  "license": "ISC",
+  "dependencies": {
+    "through2": "^2.0.0"
+  }
+}
